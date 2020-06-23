@@ -1,0 +1,4 @@
+Take a word length (in Paint, i.e.)
+Each textbox size = 400
+
+margin = (size - wordLength)/2

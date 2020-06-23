@@ -1,0 +1,12 @@
+- Oh hi, I'm alive!
+#0
+- Hey, I found some guy
+#1
+- Who are you?
+#1
+- I'm Chalk
+#0
+- And you?
+#0
+- You don't want to know my name
+#1
